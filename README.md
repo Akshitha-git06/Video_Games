@@ -1,9 +1,9 @@
 # Video_Games
-Interactive dashboard and sentiment analysis of 1,000 video games using Excel and Python. Includes insights by platform, genre, game mode, and user ratings.
+Interactive dashboard and sentiment analysis of 1,000 video games using Excel, Python, and SQL. Includes insights by platform, genre, game mode, and user ratings.
 
 # 🎮 Video Game Trends Dashboard: Insights by Year, Platform & Game Mode
 
-This repository presents a detailed analysis of video game trends using **Microsoft Excel** and **Python (Jupyter Notebook)**. The project investigates user ratings, platform preferences, multiplayer adoption, genre behavior, and pricing, providing a well-rounded understanding of the gaming industry.
+This repository presents a detailed analysis of video game trends using **Microsoft Excel**, **Python (Jupyter Notebook)**, and **SQL**. The project investigates user ratings, platform preferences, multiplayer adoption, genre behavior, and pricing, providing a well-rounded understanding of the gaming industry.
 
 ---
 
@@ -25,6 +25,15 @@ This repository presents a detailed analysis of video game trends using **Micros
 
 ├── Video Games Python Sentiment Analysis.ipynb
 - Jupyter Notebook for sentiment analysis in Python
+
+├── Video_Games raw.csv
+- Original raw dataset of video game data
+
+├── Video Games Reviews cleaned.csv
+- Cleaned dataset of video game reviews
+
+├── Video_Game_Queries.sql 
+- SQL script for data extraction and transformation
 
 ---
 
@@ -65,16 +74,17 @@ The Jupyter Notebook complements Excel analysis with sentiment insights:
 - **Microsoft Excel** (PivotTables, slicers, charts, dashboarding)
 - **Python 3.x**
 - **Jupyter Notebook**
+- **SQL** (data querying and preprocessing)
 - **Libraries:** `pandas`, `matplotlib`, `seaborn`, `TextBlob`
 
 ---
 
 ## ✅ Objective
 
-To combine **data visualization** and **sentiment analysis** to:
+To combine **data visualization**, **SQL-based analysis**, and **sentiment analysis** to:
 
 - Analyze video game trends by year, genre, platform, and mode  
-- Compare visual insights in Excel with programmatic analysis in Python  
+- Compare visual insights in Excel with programmatic and SQL-based approaches  
 - Deliver a clear understanding of user sentiment and gameplay characteristics
 
 ---
