@@ -18,13 +18,13 @@ This repository presents a detailed analysis of video game trends using **Micros
 📦 Video Game Trends Analysis
 
 ├── Video Game Trends Dashboard.xlsx
-Excel dashboard with interactive filters and charts
+- Excel dashboard with interactive filters and charts
 
 ├── Video Games Reviews cleaned.csv
-Cleaned dataset of video game reviews
+- Cleaned dataset of video game reviews
 
 ├── Video Games Python Sentiment Analysis.ipynb
-Jupyter Notebook for sentiment analysis in Python
+- Jupyter Notebook for sentiment analysis in Python
 
 ---
 
