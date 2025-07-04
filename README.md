@@ -1,6 +1,8 @@
 # Video_Games
 Interactive dashboard and sentiment analysis of 1,000 video games using Excel, Python, and SQL. Includes insights by platform, genre, game mode, and user ratings.
 
+---
+
 # 🎮 Video Game Trends Dashboard: Insights by Year, Platform & Game Mode
 
 This repository presents a detailed analysis of video game trends using **Microsoft Excel**, **Python (Jupyter Notebook)**, and **SQL**. The project investigates user ratings, platform preferences, multiplayer adoption, genre behavior, and pricing, providing a well-rounded understanding of the gaming industry.
